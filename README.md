@@ -60,7 +60,7 @@ To clone and run the app successfully, ensure you have the following API keys:
 1. Clone the repository:
 
    ```powershell
-   git clone https://github.com/your-username/ryde.git
+   git clone https://github.com/akachi11/ryde.git
 2. Navigate into the project directory:
 
     ```powershell
