@@ -1,2 +1,0 @@
-# Ryde
-Uber clone app
