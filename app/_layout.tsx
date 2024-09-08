@@ -13,7 +13,7 @@ const publishableKey = process.env.EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY!
 
 // Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync();
-LogBox.ignoreAllLogs(true);
+// LogBox.ignoreAllLogs(true);
 
 export default function RootLayout() {
   const [loaded] = useFonts({
